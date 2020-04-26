@@ -12,3 +12,10 @@ I built a basic [CNN (Convolutional Neural Network)](https://www.youtube.com/wat
 # About the files
 Pneumonia_CNN.ipynb - All the code is here. 
 
+
+# About Me
+My name is Harsh Darji. I am from Bangalore, Karnataka, India. I am 15 years old, and have just finished my grade 10.
+*And no I am not bluffing.* I have been interested in AI and programming in general since I was 12. I am completley 
+self-taught. I just went on YouTube and some courses online and learned about all this. I decided to work on this project because I saw my country's detoriating condition due to the Novel Corona Virus. I love helping people and I thought that this was the perfect opportunity for me to contribute to the community. 
+
+You can reach me at my email address - harshdarji750@gmail.com to have a little chat. 
