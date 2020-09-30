@@ -6,8 +6,14 @@ In my opinion, AI's biggest application is Healthcare. Computaional Drug Design 
 # Data
 The dataset was taken from [Kaggle](kaggle.com). Here is the link to the [dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). 
 
+# Objective
+- This project is aimed at helping detect diagnose Pneumonia just from a Lung X-Ray. 
+- Research reveals that 72 percent of patients were misdiagnosed with pneumonia upon readmission to the same hospital. African-Americans were twice more likely than  Caucasians to be misdiagnosed with pneumonia. 
+- Clearly, there is a huge scope of improvement in the area of Healthcare in general since misdiagnosis are very common and can turn out to be fatal for the patient in the long run.
+
+
 # Approach
-I built a basic [CNN (Convolutional Neural Network)](https://www.youtube.com/watch?v=x_VrgWTKkiM). The CNN has a achieved an accuracy of 89% on the testing set. 
+Using a [CNN (Convolutional Neural Network)](https://www.youtube.com/watch?v=x_VrgWTKkiM). The CNN has a achieved an accuracy of 89% on the testing set. 
 
 **About Convolutional Neural Networks -** The architecture of a ConvNet is analogous to that of the connectivity pattern of Neurons in the Human Brain and was inspired by the organization of the Visual Cortex. Individual neurons respond to stimuli only in a restricted region of the visual field known as the Receptive Field. A collection of such fields overlap to cover the entire visual area.
 
