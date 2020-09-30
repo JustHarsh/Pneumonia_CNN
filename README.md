@@ -15,6 +15,10 @@ The dataset was taken from [Kaggle](kaggle.com). Here is the link to the [datase
 # Approach
 Using a [CNN (Convolutional Neural Network)](https://www.youtube.com/watch?v=x_VrgWTKkiM). The CNN has a achieved an accuracy of 89% on the testing set. 
 
+**Concepts**
+- Tensorflow for Deep Learning 
+- Convolutional Neural Network (ConvNets/CNNs) for Image Processing and classification (using Tensorflow)
+
 **About Convolutional Neural Networks -** The architecture of a ConvNet is analogous to that of the connectivity pattern of Neurons in the Human Brain and was inspired by the organization of the Visual Cortex. Individual neurons respond to stimuli only in a restricted region of the visual field known as the Receptive Field. A collection of such fields overlap to cover the entire visual area.
 
 **Libraries used -** Tensorflow for deep learning, Numpy for basic Mathematical calculations, Matplotlib for visualization. 
