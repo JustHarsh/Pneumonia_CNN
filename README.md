@@ -1,7 +1,7 @@
 # Pneumonia_CNN
 Detecting if a Lung X-Ray Image has Pneumonia or not. 
 
-In my opinion, AI's biggest application is Healthcare. Computaional Drug Design is one area in Healthcare where AI can have its biggest impacts. 
+In my opinion, AI's biggest application is Healthcare. Automatic Diagnosis is one area in Healthcare where AI can have its biggest impacts. 
 
 # Data
 The dataset was taken from [Kaggle](kaggle.com). Here is the link to the [dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). 
